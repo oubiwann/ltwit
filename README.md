@@ -29,7 +29,7 @@ updated 2015)
 
 ### Other BEAM Clients
 
-* [ExTwitter[(https://github.com/parroty/extwitter), 2015 (Elixir)
+* [ExTwitter](https://github.com/parroty/extwitter), 2015 (Elixir)
 * [twerl](https://github.com/lucaspiller/twerl), 2014 (Erlang)
 * [erlang_twitter](https://github.com/ngerakines/erlang_twitter), 2012 (Erlang)
 * [erlang-twitter](https://code.google.com/p/erlang-twitter/people/list), 2009 (Erlang)
